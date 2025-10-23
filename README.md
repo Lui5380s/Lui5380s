@@ -16,12 +16,15 @@ I love wrangling data, uncovering insights, and building cool things (sometimes 
 - **[Lui5380s/ChatBot](https://github.com/Lui5380s/ChatBot)**  
   My official chatbot project—smart, snappy, and always learning.
 
+## 🏆 Recognition
+
+Our project was selected among the **Top 20** for the [Innovator Prize in Oberfranken](https://www.kommnachoberfranken.de/innovation/innovationswettbewerb/innovator/Generative%20KI%20f%C3%BCr%20flexible%20Bildgenerierung%20in%20Zusammenarbeit%20mit%20Google%20und%20BMW), showcasing generative AI for flexible image generation in collaboration with Google and BMW.
+
+
 ## 📊 GitHub Stats
 
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lui5380s&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lui5380s&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Lui5380s&theme=tokyonight)
-![trophy](https://github-profile-trophy.vercel.app/?username=Lui5380s&theme=tokyonight&margin-w=10)
 
 ## 🌍 Find Me Elsewhere
 
