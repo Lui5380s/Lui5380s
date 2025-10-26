@@ -23,7 +23,7 @@ Our project was selected among the **Top 20** for the [Innovator Prize in Oberfr
 ## 💻 Languages & Tools
 
 ### 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=tokyonight&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lui5380s&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
