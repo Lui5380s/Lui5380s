@@ -13,7 +13,7 @@ I love wrangling data, uncovering insights, and building cool things (sometimes 
   *(private for now, but ask me about it!)*  
   Exploring the creative frontiers of GenAI with images.
 
-- **[Lui5380s/ChatBot](https://github.com/Lui5380s/ChatBot)**  
+- **[Lui5380s/ChatBot](https://github.com/Lui5380s/Chatty)**  
   My official chatbot project—smart, snappy, and always learning.
 
 ## 🏆 Recognition
@@ -24,7 +24,7 @@ Our project was selected among the **Top 20** for the [Innovator Prize in Oberfr
 ## 📊 GitHub Stats
 
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lui5380s&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lui5380s&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lui5380s&layout=compact&theme=tokyonight&hide=html,markdown)
 
 ## 🌍 Find Me Elsewhere
 
